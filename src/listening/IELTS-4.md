@@ -1,7 +1,5 @@
 # Listening
 
-## Section 1
-
 ## Section 2
 
 1. coal and firewood
