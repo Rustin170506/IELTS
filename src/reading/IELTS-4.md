@@ -1,18 +1,18 @@
 # Reading
 
-# Passage 2 (A)
+## SECTION 1
 
-15. ~~blowholes~~ taste buds
-16. baleen
-17. forward, downward
-18. freshwater dolphins
-19. water
-20. the lower frequencies
-21. bowhead, humpback
-22. ~~Vision~~ touch
-23. freshwater dolphins
-24. airborne flying fish
-25. ~~Vision~~ clear water
-26. acoustic
-
-
+1. B
+2. A
+3. E
+4. C
+5. A
+6. C
+7. D
+8. ~~C~~ B
+9. B
+10. E
+11. D
+12. A
+13. B
+14. D
