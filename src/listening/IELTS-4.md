@@ -12,3 +12,16 @@
 8. Showroom
 9. Cafe
 10. cottages
+
+## Section 3
+
+21. A
+22. C
+23. E
+24. B
+25. G
+26. F
+27. C
+28. D
+29. A
+30. B
