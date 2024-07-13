@@ -38,3 +38,18 @@
 38. filter
 39. low
 40. space
+
+
+# Test 2
+
+## Section 1
+1. C
+2. C
+3. B
+4. B
+5. A
+6. ～～Gardens～～ Cathedral
+7. ~~Cathedral~~ Markets
+8. Gardens
+9. ~~Gardens~~ Art Gallery
+10. climb the tower
