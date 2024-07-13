@@ -32,3 +32,19 @@
 25. E
 26. H
 27. C
+
+## Section 3
+
+28. ~~E~~ A
+29. D
+30. F
+31. cartoons and newsreels
+32. slapstick comedy
+33. avant-garde
+34. A
+35. C
+36. H
+37. C
+38. A
+39. ~B~ F
+40. D
