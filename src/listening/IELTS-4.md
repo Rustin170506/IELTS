@@ -53,3 +53,15 @@
 8. Gardens
 9. ~~Gardens~~ Art Gallery
 10. climb the tower
+
+## Section 2
+11. C
+12. B
+13. A
+14. C
+15. B
+16. C
+17. A
+18. B
+19. B
+20. A
