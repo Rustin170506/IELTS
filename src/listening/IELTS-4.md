@@ -65,3 +65,16 @@
 18. B
 19. B
 20. A
+
+## Section 3
+
+21. collecting data
+22. ~~50~~ 1500
+23. 5
+24. 3000-4000
+25. B
+26. C
+27. ~~Meathea~~ Mehta
+28. Survey Research
+29. London University
+30. 1988
