@@ -78,3 +78,16 @@
 28. Survey Research
 29. London University
 30. 1988
+
+## Section 4
+
+31. C
+32. A
+33. mass media
+34. academic circles
+35. specialist knowledge
+36. unaware
+37. individuals
+38. illegal profit
+39. ~~C~~ D
+40. E
