@@ -91,3 +91,18 @@
 38. illegal profit
 39. ~~C~~ D
 40. E
+
+# Test 3
+
+## Section 1
+
+1. 1.5 years
+2. forest
+3. academic
+4. Thursday
+5. B
+6. B
+7. A
+8. ~~rent~~ deposit
+9. monthly
+10. phone
