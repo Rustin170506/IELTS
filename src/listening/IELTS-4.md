@@ -106,3 +106,16 @@
 8. ~~rent~~ deposit
 9. monthly
 10. phone
+
+## Section 2
+
+11. C
+12. ~~B~~ A
+13. C
+14. B
+15. Lighting
+16. Adults
+17. studio theatre
+18. the whole family
+19. city gardens
+20. young children
