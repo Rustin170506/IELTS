@@ -119,3 +119,16 @@
 18. the whole family
 19. city gardens
 20. young children
+
+## Section 3
+
+21. A
+22. B
+23. C
+24. A
+25. ~~C~~ B
+26. A
+27. C
+28. B
+29. B
+30. B
