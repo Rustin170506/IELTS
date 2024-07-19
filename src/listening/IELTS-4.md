@@ -132,3 +132,16 @@
 28. B
 29. B
 30. B
+
+## Section 4
+
+31. questionnaire
+32. approximately 2000
+33. education
+34. ~~house of residents~~ halls of residence
+35. traffic parking
+36. lecture rooms
+37. ~~room~~ facilities
+38. D F
+39. ~~A~~
+40. A C
