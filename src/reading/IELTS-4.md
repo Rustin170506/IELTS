@@ -83,3 +83,19 @@
 25. Not GIVEN
 26. False
 27. ~~True~~ False
+
+## Section 3
+
+28. ~~i~~ vi
+29. iv
+30. x
+31. viii
+32. vii
+33. ii
+34. v
+35. round
+36. sickle
+37. waggle
+38. the feeding dish
+39. the food source
+40. the sun
