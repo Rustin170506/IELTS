@@ -1,0 +1,18 @@
+# A
+
+## Section 1
+
+1. TRUE
+2. FALSE
+3. NOT GIVEN
+4. ~~FALSE~~ TRUE
+5. FALSE
+6. ~~FALSE~~ TRUE
+7. ~~FALSE~~ NOT GIVEN
+8. C
+9. E
+10. D
+11. E
+12. ~~E~~ C
+13. E
+14. G
