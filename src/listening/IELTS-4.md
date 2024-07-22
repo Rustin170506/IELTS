@@ -145,3 +145,57 @@
 38. D F
 39. ~~A~~
 40. A C
+
+# Test 4
+
+## Section 1
+
+1. college ~~daring~~ dining room
+2. office staff
+3. students
+4. 10th December
+5. coffee break
+6. 6
+7. dictionaries
+8. music
+9. photos
+10. speech
+
+## Section 2
+
+11. B
+12. A
+13. ~~C~~ A
+14. A
+15. B
+16. 180
+17. nearest station
+18. ~~magnifications~~ local history
+19. 690
+20. local walking club
+
+## Section 3
+
+21. 20 balloons
+22. measurements
+23. ~~rocksode~~ rock salt
+24. ~~curstion~~ crystals
+25. string
+26. white light
+27. H
+28. B
+29. E
+30. C
+
+## Section 4
+
+31. 795
+32. tail
+33. bottom
+34. ~~noses~~ sense of smell
+35. ~~C~~ A
+36. A
+37. B
+38. ~~A~~ B
+39. B
+40. E
