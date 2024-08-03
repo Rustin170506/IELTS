@@ -32,3 +32,19 @@
 25. audience
 26. purpose
 27. post-graduate
+
+## Section 3
+
+28. E
+29. A
+30. ~~D~~ A
+31. ~~C~~ B
+32. E
+33. F
+34. A
+35. B
+36. D
+37. E
+38. I
+39. G
+40. B
