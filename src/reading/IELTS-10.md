@@ -48,3 +48,22 @@
 38. I
 39. G
 40. B
+
+# B
+
+## Section 1
+
+1. FALSE
+2. FALSE
+3. True
+4. NOT GIVEN
+5. ~~TRUE~~ NOT GIVEN
+6. TRUE
+7. FALSE
+8. ii
+9. x
+10. ~~viii~~ v
+11. iii
+12. ix
+13. vi
+14. iv
