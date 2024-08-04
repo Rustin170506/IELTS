@@ -51,3 +51,33 @@
 38. reproduction
 39. methods
 40. ~~expiation~~ expansion
+
+
+# Test 2
+
+## Section 1
+
+1. Hardie
+2. 19
+3. GT8 2LC
+4. ~~addresser~~ hairdresser
+5. dentist
+6. lighting
+7. trains
+8. safe
+9. shower
+10. training
+
+## Section 2
+
+11. A
+12. C
+13. C
+14. A
+15. E
+16. F
+17. ~~I~~ D
+18. H
+19. A
+20. B
+
