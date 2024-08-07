@@ -42,3 +42,48 @@ The internet and television are both important sources of information and entert
 What are the most popular and least popular apps in China?
 
 Some of the most popular apps in China include WeChat, Alipay, and TikTok. WeChat is a messaging app that also offers social media, payment, and other services. Alipay is a popular mobile payment app that is widely used for online and offline transactions. TikTok, known as Douyin in China, is a short-video app that has gained popularity worldwide.
+
+## 2024-07-07
+
+### Describe a time you had to finish something quickly
+
+You should say:
+
+What it was
+When it happened
+How you finished it
+Why you had to finish it quickly And explain how you felt about it
+
+As a software developer, I’ve had some intense moments during on-call duty. One time, I got an alert that our production server was down, and it had accidentally restarted. It was a critical issue that needed immediate attention to minimize the impact on our users.
+
+I quickly logged into the server and found that a database record was corrupted. I had to restore it from a backup and restart the server to get it back online. I moved fast and efficiently, and within 30 minutes, the server was up and running again.
+
+Fixing user issues quickly is crucial to avoid downtime, as it can really inconvenience users and hurt the company’s business. Despite the pressure, I felt a strong sense of urgency and responsibility to resolve the problem. It was a challenging situation, but I managed to stay calm and focused to get the job done.
+
+
+### Follow-up questions:
+
+On what occasions do people have to do things in a hurry?
+
+People often have to do things in a hurry when they are facing a deadline or an urgent situation. For example, students may need to finish an assignment quickly before the due date, or employees may need to complete a task before a meeting.
+
+Why do some people spend a long time on having a meal?
+
+Some people may spend a long time on having a meal because they enjoy the social aspect of dining with friends or family. They may want to enjoy the food and have a leisurely conversation while eating. Others may take their time to enjoy some youtube videos while eating. It takes them longer to finish their meal.
+
+Would people feel more satisfied if they finished doing something quickly?
+
+Yes, people often feel more satisfied when they finish something quickly because it gives a sense of efficiency. But it depends on the task. Some tasks require more time and effort to complete, and taking the time to do them properly can also be satisfying.
+
+What kinds of jobs need to be done quickly?
+
+Jobs that require quick decision-making or problem-solving skills often need to be done quickly. For example, emergency responders and customer service support need to act fast to help people in critical situations.
+
+What are some examples of work that needs to be done quickly?
+
+Some examples of work that need to be done quickly include responding to customer inquiries, fixing technical issues, or meeting project deadlines.
+
+What might make some people more productive than others in completing tasks?
+
+Some people may be more productive than others in completing tasks due to their time management skills, focus, and motivation. They may have a clear plan and prioritize their work effectively. Others may be more easily distracted or lack the necessary skills to complete tasks efficiently.
+
