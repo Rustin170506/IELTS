@@ -106,3 +106,19 @@
 38. ~~x~~ leadership
 39. women
 40. self-employed
+
+
+# Test 3
+
+## Section 1
+
+1. 4
+2. ~~wombatoo~~ 46 Wombat
+3. Thursday
+4. 8.30
+5. red
+6. lunch
+7. glasses
+8. Ball
+9. Aunt
+10. month
