@@ -67,3 +67,19 @@
 12. ix
 13. vi
 14. iv
+
+## Section 2
+
+15. ~~NOT GIVEN~~ FALSE
+16. FALSE
+17. ~~TRUE~~ NOT GIVEN
+18. ~~NOT GIVEN~~ TRUE
+19. TRUE
+20. ~~TRUE~~ FALSE
+21. F
+22. B
+23. G
+24. H
+25. C
+26. G
+27. D
