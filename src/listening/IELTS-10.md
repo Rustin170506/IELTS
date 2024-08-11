@@ -81,3 +81,28 @@
 19. A
 20. B
 
+## Section 3
+
+21. ~~D~~ C
+22. B
+23. ~~D~~ E
+24. B
+25. ~~B~~ A
+26. C
+27. C
+28. A
+29. ~~C~~ B
+30. A
+
+## Section 4
+
+31. competition
+32. ~~influence~~ global
+33. demand
+34. customers
+35. regulation
+36. project
+37. flexible
+38. ~~x~~ leadership
+39. women
+40. self-employed
