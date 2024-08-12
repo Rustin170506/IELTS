@@ -83,3 +83,20 @@
 25. C
 26. G
 27. D
+
+# Section 3
+
+28. ~~B~~ C
+29. F
+30. A
+31. E
+32. A
+33. ~~C~~ B
+34. ~~A~~ C
+35. B
+36. C
+37. ~~A~~ C
+38. prepared mind
+39. iodine vapour
+40. chemicals
+
