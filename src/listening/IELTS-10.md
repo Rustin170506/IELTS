@@ -148,3 +148,17 @@
 28. A
 29. G
 30. C
+
+
+## Section 4
+
+31. achievement
+32. personality
+33. situational
+34. friend
+35. ~~x~~ aspirations
+36. style
+37. development
+38. vision
+39. structures
+40. innovation
