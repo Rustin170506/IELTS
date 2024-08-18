@@ -168,7 +168,7 @@
 
 ## Section 1
 
-1. Pargetter
+1. Prgetter
 2. East
 3. library
 4. morning
@@ -194,26 +194,26 @@
 
 ## Section 3
 
-21.
-22.
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
+21. A
+22. E
+23. B
+24. ~~A~~ C
+25. ~~G~~ D
+26. F
+27. G
+28. B
+29. E
+30. C
 
 # Section 4
 
-31.
-32.
-33.
-34.
-35.
-36.
-37.
-38.
-39.
-40.
+31. C
+32. B
+33. C
+34. metal
+35. space
+36. memory
+37. ~~x~~ solar
+38. oil
+39. waste
+40. tests
