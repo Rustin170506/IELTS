@@ -134,3 +134,46 @@ Should all tourist attractions be free to the public?
 
 Not all tourist attractions should be free to the public, as they require maintenance and resources to preserve them. Charging an entrance fee can help fund conservation efforts and protect the site for future generations.
 
+## 2024-08-21
+
+### Describe a place you visited where the air was polluted
+
+You should say:
+
+Where the place is
+When you visited it
+Why the air was not good
+And explain how you felt about the place
+
+
+I visited Beijing, China’s capital, in the winter of 2022. The air quality was pretty bad, with a thick haze hanging over the city most days. The pollution was mainly from industrial emissions, vehicle exhaust, and construction dust, made worse by the city’s rapid growth and its location, surrounded by mountains.
+
+While I was there, the sky often had a grayish tint, and visibility was poor. A lot of people wore face masks for protection. The bad air quality really affected my experience—it was uncomfortable to breathe, and outdoor activities weren’t as enjoyable.
+
+Even though Beijing has a rich history and some amazing landmarks, the pollution gave me mixed feelings about the city. It made me think about the environmental challenges that come with rapid urban development and the need to balance economic growth with protecting the environment.
+
+### Follow-up questions:
+
+Is there more pollution now than in the past?
+
+No, there is less pollution now than in the past. Beijing has made significant progress in reducing air pollution by implementing stricter emission standards.
+
+Do you think the city is cleaner or dirtier than the countryside? Why?
+
+I think the city is dirtier than the countryside. The city has a lot of factories and vehicles, which release pollutants into the air. The countryside has fewer people and less industry, so at least the air is cleaner.
+
+What can factories and power plants do to reduce pollutants?
+
+Factories and power plants can reduce pollutants by using cleaner technologies, like renewable energy sources. They can also improve their waste management practices to reduce emissions.
+
+Do you think the wind has any effect on pollution? How?
+
+Yes, the wind can have an effect on pollution. When the wind blows, it can disperse pollutants and help clean the air.
+
+In what ways can air pollution be reduced effectively?
+
+I think air pollution can be reduced effectively by using cleaner technologies, improving waste management practices, and promoting public awareness of the issue.
+
+Do you think many companies have been forced to reduce pollutants?
+
+Yes, many companies have been forced to reduce pollutants by implementing stricter regulations and standards.
