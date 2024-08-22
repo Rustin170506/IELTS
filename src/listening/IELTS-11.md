@@ -25,3 +25,29 @@
 18. ~~D~~ H
 19. ~~G~~ C
 20. ~~B~~ A
+
+## Section 3
+
+21. C
+22. ~~C~~ B
+23. B
+24. C
+25. A
+26. B
+27. C
+28. A
+29. B
+30. A
+
+## Section 4
+
+31. conservation
+32. food
+33. surface
+34. oxygen
+35. mammals
+36. ice
+37. decline
+38. map
+39. migration
+40. ~~x~~ consumption
