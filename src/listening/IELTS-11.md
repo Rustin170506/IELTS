@@ -51,3 +51,57 @@
 38. map
 39. migration
 40. ~~x~~ consumption
+
+# Test 2
+
+## Section 1
+
+1. hostel
+2. buckleigh
+3. PE97QT
+4. waiter
+5. politics
+6. cycling
+7. ~~thnerma~~ cinema
+8. disable
+9. 4.30
+10. 07788136711
+
+## Section 2
+
+11. B
+12. ~~D~~ A
+13. B
+14. D
+15. E
+16. C
+17. G
+18. D
+19. B
+20. ~~C~~ F
+
+## Section 3
+
+21. A
+22. A
+23. C
+24. B
+25. ~A~ B
+26. B
+27. A
+28. D
+29. E
+30. C
+
+## Section 4
+
+31. social
+32. factory
+33. canal
+34. bridge
+35. box
+36. screen
+37. ~~robber~~ rubber
+38. curved
+39. curtains
+40. international
