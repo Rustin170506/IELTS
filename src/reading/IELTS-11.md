@@ -1,0 +1,18 @@
+# Test 2
+
+## Section 1
+
+1. NOT GIVEN
+2. FALSE
+3. TRUE
+4. FALSE
+5. ~~NOT GIVEN~~ TRUE
+6. NOT GIVEN
+7. D
+8. E
+9. I
+10. F
+11. H
+12. D
+13. G
+14. C
