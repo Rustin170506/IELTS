@@ -105,3 +105,57 @@
 38. curved
 39. curtains
 40. international
+
+# Test 3
+
+## Section 1
+
+1. B
+2. ~~A~~ C
+3. B
+4. A
+5. C
+6. A
+7. birds
+8. flowers
+9. mushrooms
+10. ~~fence~~ river
+
+## Section 2
+
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+
+## Section 3
+
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+
+## Section 4
+
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
