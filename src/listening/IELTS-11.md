@@ -136,16 +136,16 @@
 
 ## Section 3
 
-21.
-22.
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
+21. cave
+22. tiger
+23. dancing
+24. crying
+25. grass
+26. ~~scraph~~ scarf
+27. A
+28. C
+29. D
+30. B
 
 ## Section 4
 
