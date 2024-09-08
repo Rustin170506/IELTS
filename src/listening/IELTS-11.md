@@ -149,13 +149,13 @@
 
 ## Section 4
 
-31.
-32.
-33.
-34.
-35.
-36.
-37.
-38.
-39.
-40.
+31. attitude
+32. numbers
+33. time
+34. software
+35. patients
+36. ~~smart phone~~ emotions
+37. income
+38. comfortable
+39. ~~reverse~~ observation
+40. analysis
