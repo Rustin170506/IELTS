@@ -159,3 +159,19 @@
 38. comfortable
 39. ~~reverse~~ observation
 40. analysis
+
+
+# Test 4
+
+## Section 1
+
+1. secondary
+2. ~~fluent~~ flute
+3. cinema
+4. concert
+5. market
+6. Bythwaite
+7. actor
+8. A
+9. B
+10. C
