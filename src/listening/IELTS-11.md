@@ -202,3 +202,16 @@
 29. A
 30. C
 
+
+## Section 4
+
+31. dry
+32. ~~hot~~ hard
+33. sugars
+34. roots
+35. ~~plant~~ moist/damp/wet
+36. variety
+37. ~~tate~~ cattle
+38. gardens
+39. grasses
+40. payment
