@@ -25,3 +25,16 @@
 18. C
 19. ~~E~~ D
 20. B
+
+## Section 3
+
+21. B
+22. C
+23. ~~B~~ C
+24. budget
+25. employment
+26. safety
+27. insurance
+28. ~~statue~~ diary
+29. database
+30. museum
