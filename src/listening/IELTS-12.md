@@ -1,4 +1,4 @@
-# Test 1
+# Test 1 (6.5/9)
 
 ## Section 1
 
@@ -38,3 +38,17 @@
 28. ~~statue~~ diary
 29. database
 30. museum
+
+## Section 4
+
+31. damage
+32. side effects
+33. bridge
+34. confusion
+35. ~~inconsistency~~ smartphone
+36. resources
+37. ~~wasting time~~ unnecessary
+38. chocolate bar
+39. problem
+40. ~~x~~ market share
+
