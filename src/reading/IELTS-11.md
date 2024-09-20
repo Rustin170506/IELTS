@@ -17,6 +17,38 @@
 13. C
 14. ~~C~~ F
 
+## Section 2
+
+15. marketing environment
+16. Corporate Travel Consultant
+17. rewards
+18. outstanding efforts
+19. ambitions
+20. psychometric test
+21. team
+22. authorization
+23. obstructions
+24. wrapped
+25. waste
+26. Trolleys
+27. breaks
+
+## Section 3
+
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+
 # Test 2
 
 ## Section 1
