@@ -177,3 +177,21 @@ I think air pollution can be reduced effectively by using cleaner technologies, 
 Do you think many companies have been forced to reduce pollutants?
 
 Yes, many companies have been forced to reduce pollutants by implementing stricter regulations and standards.
+
+## 2024-09-21
+
+### Describe a time when you received good service in a shop/store
+
+You should say:
+Where the shop is?
+When you went to the shop?
+What service you received from the staff?
+And explain how you felt about the service?
+
+A time when I received excellent service was at the Apple Store in Chengdu. This happened about two months ago when my iPhone suddenly stopped working, and I needed it repaired. The store is located in Taikoo Li, a popular shopping area in Chengdu, so I decided to visit their Genius Bar for help.
+
+When I arrived, I was warmly greeted by a staff member who promptly checked me in for an appointment. After a short wait, a technician assisted me and ran a diagnostic test on my phone. He quickly identified the issue as a battery malfunction. What impressed me the most was how efficient and professional he was. He explained the problem clearly, offered a free replacement since my phone was still under warranty, and told me it would only take about an hour to fix.
+
+While waiting, the staff offered me a comfortable space to relax, and I appreciated how they kept me informed throughout the process. By the time the repair was done, my phone was working perfectly again.
+
+I felt extremely satisfied with the service because everything was handled so smoothly, and the staff made me feel valued as a customer. It was truly a great experience, and I left the store feeling relieved and happy.
