@@ -66,3 +66,16 @@
 8. traditional
 9. outdoor
 10. logo
+
+## Section 2
+
+11. B
+12. C
+13. A
+14. B
+15. C
+16. ~~A~~ F
+17. B
+18. E
+19. G
+20. C
