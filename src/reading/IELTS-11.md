@@ -35,6 +35,22 @@
 
 ## Section 3
 
+28. vi
+29. viii
+30. iv
+31. ii
+32. ix
+33. vii
+34. x
+35. harems
+36. mares
+37. herds
+38. D
+39. ~~B~~ A
+40. B
+
+## Section 3
+
 28.
 29.
 30.
@@ -67,3 +83,5 @@
 12. D
 13. G
 14. C
+
+
