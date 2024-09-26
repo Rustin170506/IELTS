@@ -92,3 +92,16 @@
 28. D
 29. C
 30. A
+
+## Section 4
+
+31. bullying
+32. superiority
+33. personality
+34. structural
+35. ~~absent~~ absence
+36. confidence
+37. visions
+38. ~~democracies~~ democratic
+39. respect
+40. mediator
