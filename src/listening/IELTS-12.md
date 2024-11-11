@@ -105,3 +105,18 @@
 38. ~~democracies~~ democratic
 39. respect
 40. mediator
+
+# Test 3
+
+## Section 1
+
+1. traveling
+2. history
+3. study
+4. ~~tangiers~~ teenagers
+5. kitchen
+6. crime
+7. appointment
+8. sugar
+9. stamps
+10. parking
