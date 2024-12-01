@@ -120,3 +120,30 @@
 8. sugar
 9. stamps
 10. parking
+
+## Section 2
+
+11. E
+12. D
+13. C
+14. A
+15. C
+16. B
+17. A
+18. stress
+19. weight
+20. families
+
+## Section 3
+
+21. C
+22. E
+23. H
+24. B
+25. A
+26. F
+27. ~~C~~ A
+28. C
+29. B
+30. B
+
