@@ -147,3 +147,15 @@
 29. B
 30. B
 
+## Section 4
+
+31. insects
+32. behavior
+33. father
+34. complex
+35. reproduction
+36. control
+37. darks
+38. language
+39. food
+40. cost
