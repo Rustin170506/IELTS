@@ -159,3 +159,19 @@
 38. language
 39. food
 40. cost
+
+
+# Test 4
+
+## Section 1
+
+1. temporary
+2. doctor
+3. Africa
+4. youth
+5. may
+6. cheese
+7. Arbuthnot
+8. ~~DJ74PH~~ DG74PH
+9. Tuesday
+10. talk
