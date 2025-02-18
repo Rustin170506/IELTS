@@ -49,21 +49,6 @@
 39. ~~B~~ A
 40. B
 
-## Section 3
-
-28.
-29.
-30.
-31.
-32.
-33.
-34.
-35.
-36.
-37.
-38.
-39.
-40.
 
 # Test 2
 
@@ -84,4 +69,18 @@
 13. G
 14. C
 
+## Section 2
 
+15. colleague
+16. power cut
+17. breathing
+18. displacement activity
+19. conversation
+20. reactions
+21. examples
+22. handouts
+23. internships
+24. skills
+25. ~~stories~~ cuttings
+26. research
+27. errors
